@@ -1,3 +1,5 @@
+package stringManipulation;
+
 /**
  * Created by devpriyadave on 2/18/18.
  *

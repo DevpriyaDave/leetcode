@@ -1,3 +1,5 @@
+package stringManipulation;
+
 /**
  * Created by devpriyadave on 2/25/18.
  * Given a string, you need to reverse the order of characters in each word within
